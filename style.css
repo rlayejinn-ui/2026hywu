@@ -1,0 +1,33 @@
+body {
+  background: #f3f3f3;
+  font-family: sans-serif;
+}
+
+
+h1 {
+  color: #e0559a;
+  font-size: 36px;
+}
+
+
+.card {
+  background: #ffffff;
+  padding: 24px;
+  max-width: 500px;
+  margin: 40px auto;
+  border-radius: 12px;
+}
+
+
+ul {
+  display: flex;
+  gap: 12px;
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  background: #ffe4ef;
+  padding: 8px 16px;
+  border-radius: 20px;
+}
