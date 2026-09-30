@@ -3,12 +3,10 @@ body {
   font-family: sans-serif;
 }
 
-
 h1 {
   color: #e0559a;
   font-size: 36px;
 }
-
 
 .card {
   background: #ffffff;
@@ -17,7 +15,6 @@ h1 {
   margin: 40px auto;
   border-radius: 12px;
 }
-
 
 ul {
   display: flex;
